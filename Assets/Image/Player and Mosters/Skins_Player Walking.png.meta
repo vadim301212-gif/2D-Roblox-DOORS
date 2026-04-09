@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: b860a975a21c3cf4a85a666bf67a9e60
+guid: 7cfecea28038d184faf8f95c142bc94b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8967387966378672027
-    second: Skins_Player 3 (1)_0
+      213: -5503758877863216754
+    second: Skins_Player Walking_0
   - first:
-      213: -2880062593873508291
-    second: Skins_Player 3 (1)_1
+      213: -3650249274608333212
+    second: Skins_Player Walking_1
   - first:
-      213: -3980868596807790482
-    second: Skins_Player 3 (1)_2
+      213: -1920239555707813110
+    second: Skins_Player Walking_2
   - first:
-      213: -4526697150315289020
-    second: Skins_Player 3 (1)_3
+      213: 7569556087303496647
+    second: Skins_Player Walking_3
   - first:
-      213: 317600628761058138
-    second: Skins_Player 3 (1)_4
+      213: -7392996543474490107
+    second: Skins_Player Walking_4
   - first:
-      213: 3381456285490915524
-    second: Skins_Player 3 (1)_5
+      213: -4322934160741764716
+    second: Skins_Player Walking_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_0
+      name: Skins_Player Walking_0
       rect:
         serializedVersion: 2
         x: 7
@@ -156,14 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9ffc1b18df827c70800000000000000
-      internalID: 8967387966378672027
+      spriteID: e897f83f578be93b0800000000000000
+      internalID: -5503758877863216754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_1
+      name: Skins_Player Walking_1
       rect:
         serializedVersion: 2
         x: 39
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3887418456f708d0800000000000000
-      internalID: -2880062593873508291
+      spriteID: 46ec755ef95b75dc0800000000000000
+      internalID: -3650249274608333212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_2
+      name: Skins_Player Walking_2
       rect:
         serializedVersion: 2
         x: 7
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6093cd4a1d11c8c0800000000000000
-      internalID: -3980868596807790482
+      spriteID: a03c1664c40f955e0800000000000000
+      internalID: -1920239555707813110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_3
+      name: Skins_Player Walking_3
       rect:
         serializedVersion: 2
         x: 39
@@ -222,14 +222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4462faddce0fd21c0800000000000000
-      internalID: -4526697150315289020
+      spriteID: 7c3ee1bf7277c0960800000000000000
+      internalID: 7569556087303496647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_4
+      name: Skins_Player Walking_4
       rect:
         serializedVersion: 2
         x: 7
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5b5eb1d618586400800000000000000
-      internalID: 317600628761058138
+      spriteID: 505238040dcc66990800000000000000
+      internalID: -7392996543474490107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skins_Player 3 (1)_5
+      name: Skins_Player Walking_5
       rect:
         serializedVersion: 2
         x: 39
@@ -266,8 +266,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c8a23073985dee20800000000000000
-      internalID: 3381456285490915524
+      spriteID: 491f591e84ad104c0800000000000000
+      internalID: -4322934160741764716
       vertices: []
       indices: 
       edges: []
@@ -286,12 +286,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Skins_Player 3 (1)_0: 8967387966378672027
-      Skins_Player 3 (1)_1: -2880062593873508291
-      Skins_Player 3 (1)_2: -3980868596807790482
-      Skins_Player 3 (1)_3: -4526697150315289020
-      Skins_Player 3 (1)_4: 317600628761058138
-      Skins_Player 3 (1)_5: 3381456285490915524
+      Skins_Player Walking_0: -5503758877863216754
+      Skins_Player Walking_1: -3650249274608333212
+      Skins_Player Walking_2: -1920239555707813110
+      Skins_Player Walking_3: 7569556087303496647
+      Skins_Player Walking_4: -7392996543474490107
+      Skins_Player Walking_5: -4322934160741764716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
