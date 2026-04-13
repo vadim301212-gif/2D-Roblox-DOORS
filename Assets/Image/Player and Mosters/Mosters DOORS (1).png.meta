@@ -1,31 +1,43 @@
 fileFormatVersion: 2
-guid: 29eee51af95bab34b88500179defb19b
+guid: 4b314daff5ecc2e4fa39f6bd23367fae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6293715924423353210
-    second: Mosters DOORS_0
+      213: -3444688569706201244
+    second: Mosters DOORS (1)_0
   - first:
-      213: 1200908921766614914
-    second: Mosters DOORS_1
+      213: 6695791537809385659
+    second: Mosters DOORS (1)_1
   - first:
-      213: -1850231304749485607
-    second: Mosters DOORS_2
+      213: 223502406340890524
+    second: Mosters DOORS (1)_2
   - first:
-      213: -4506975702633496694
-    second: Mosters DOORS_3
+      213: 7639489986063116614
+    second: Mosters DOORS (1)_3
   - first:
-      213: -1227354154038636004
-    second: Mosters DOORS_4
+      213: -1099587972047479153
+    second: Mosters DOORS (1)_4
   - first:
-      213: 4548237208510006815
-    second: Mosters DOORS_5
+      213: 6054215985975580630
+    second: Mosters DOORS (1)_5
   - first:
-      213: -4588022565197853019
-    second: Mosters DOORS_6
+      213: -2615191347943656524
+    second: Mosters DOORS (1)_6
   - first:
-      213: 7178881311032190491
-    second: Mosters DOORS_7
+      213: -3703377646253366155
+    second: Mosters DOORS (1)_7
+  - first:
+      213: -2457580650623227500
+    second: Mosters DOORS (1)_8
+  - first:
+      213: 4695142587738814780
+    second: Mosters DOORS (1)_9
+  - first:
+      213: 4077843695638614980
+    second: Mosters DOORS (1)_10
+  - first:
+      213: 8032599280649563260
+    second: Mosters DOORS (1)_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -147,11 +159,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mosters DOORS_0
+      name: Mosters DOORS (1)_0
       rect:
         serializedVersion: 2
         x: 6
-        y: 65
+        y: 97
         width: 20
         height: 27
       alignment: 0
@@ -162,18 +174,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68cd68756ba38a8a0800000000000000
-      internalID: -6293715924423353210
+      spriteID: 46f30d02ff10230d0800000000000000
+      internalID: -3444688569706201244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mosters DOORS_1
+      name: Mosters DOORS (1)_1
       rect:
         serializedVersion: 2
         x: 40
-        y: 70
+        y: 102
         width: 16
         height: 23
       alignment: 0
@@ -184,18 +196,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2871f793d4c7aa010800000000000000
-      internalID: 1200908921766614914
+      spriteID: bb8e1358dea3cec50800000000000000
+      internalID: 6695791537809385659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mosters DOORS_2
+      name: Mosters DOORS (1)_2
       rect:
         serializedVersion: 2
-        x: 5
-        y: 39
+        x: 69
+        y: 103
         width: 16
         height: 21
       alignment: 0
@@ -206,18 +218,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9d179186e68a256e0800000000000000
-      internalID: -1850231304749485607
+      spriteID: c9fc460214a0a1300800000000000000
+      internalID: 223502406340890524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mosters DOORS_3
+      name: Mosters DOORS (1)_3
       rect:
         serializedVersion: 2
-        x: 31
-        y: 35
+        x: 0
+        y: 67
         width: 33
         height: 28
       alignment: 0
@@ -228,19 +240,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8fb6393a710471c0800000000000000
-      internalID: -4506975702633496694
+      spriteID: 6492274aaabe40a60800000000000000
+      internalID: 7639489986063116614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mosters DOORS_6
+      name: Mosters DOORS (1)_6
       rect:
         serializedVersion: 2
-        x: 7
-        y: 0
+        x: 39
+        y: 63
         width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b42e2359f4bbd0800000000000000
+      internalID: -2615191347943656524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosters DOORS (1)_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 16
         height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -250,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5aec7eb09c11450c0800000000000000
-      internalID: -4588022565197853019
+      spriteID: 57422fde6a5fa9cc0800000000000000
+      internalID: -3703377646253366155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mosters DOORS_7
+      name: Mosters DOORS (1)_8
       rect:
         serializedVersion: 2
-        x: 40
-        y: 0
-        width: 16
-        height: 27
+        x: 8
+        y: 37
+        width: 13
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,8 +306,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b16a3cc548280a360800000000000000
-      internalID: 7178881311032190491
+      spriteID: 499aab84b6be4edd0800000000000000
+      internalID: -2457580650623227500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosters DOORS (1)_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39faffbe4f782140800000000000000
+      internalID: 4695142587738814780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosters DOORS (1)_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31b106c39679830800000000000000
+      internalID: 4077843695638614980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mosters DOORS (1)_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cec2abc76897f60800000000000000
+      internalID: 8032599280649563260
       vertices: []
       indices: 
       edges: []
@@ -282,7 +382,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 02add66b7ce8bde448430e7a93785187
+    spriteID: 1f0d51a894d649246afb93de4f4ebda0
     internalID: 0
     vertices: []
     indices: 
@@ -292,14 +392,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mosters DOORS_0: -6293715924423353210
-      Mosters DOORS_1: 1200908921766614914
-      Mosters DOORS_2: -1850231304749485607
-      Mosters DOORS_3: -4506975702633496694
-      Mosters DOORS_4: -1227354154038636004
-      Mosters DOORS_5: 4548237208510006815
-      Mosters DOORS_6: -4588022565197853019
-      Mosters DOORS_7: 7178881311032190491
+      Mosters DOORS (1)_0: -3444688569706201244
+      Mosters DOORS (1)_1: 6695791537809385659
+      Mosters DOORS (1)_10: 4077843695638614980
+      Mosters DOORS (1)_11: 8032599280649563260
+      Mosters DOORS (1)_2: 223502406340890524
+      Mosters DOORS (1)_3: 7639489986063116614
+      Mosters DOORS (1)_4: -1099587972047479153
+      Mosters DOORS (1)_5: 6054215985975580630
+      Mosters DOORS (1)_6: -2615191347943656524
+      Mosters DOORS (1)_7: -3703377646253366155
+      Mosters DOORS (1)_8: -2457580650623227500
+      Mosters DOORS (1)_9: 4695142587738814780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
