@@ -24,6 +24,12 @@ public class PlayerMovement : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>();
         animator.SetBool("IsWalking", true);
+        if(context.canceled)
+        {
+            animator.SetBool("IsWalking", false);
+        }
+        
+        
         animator.SetFloat("InputX", moveInput.x);
         animator.SetFloat("InputY", moveInput.y);
     }
