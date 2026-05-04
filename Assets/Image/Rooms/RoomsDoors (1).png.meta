@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 2e1a42e0b3856124ab54ba9b7842719c
+guid: d76b37cdbab210a4fb66fe72699c44c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6449073906205589803
-    second: RoomsDoors_0
+      213: -8055185665138226113
+    second: RoomsDoors (1)_0
   - first:
-      213: -6044181604355900492
-    second: RoomsDoors_1
+      213: -1290872231730455620
+    second: RoomsDoors (1)_1
   - first:
-      213: -5343070304254006840
-    second: RoomsDoors_2
+      213: 5753106235280766440
+    second: RoomsDoors (1)_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,7 +132,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RoomsDoors_0
+      name: RoomsDoors (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -147,14 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5deff5273794086a0800000000000000
-      internalID: -6449073906205589803
+      spriteID: f3c0e95d05b363090800000000000000
+      internalID: -8055185665138226113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoomsDoors_1
+      name: RoomsDoors (1)_1
       rect:
         serializedVersion: 2
         x: 65
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bb7a62bad0ce1ca0800000000000000
-      internalID: -6044181604355900492
+      spriteID: cbb5a496b86e51ee0800000000000000
+      internalID: -1290872231730455620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoomsDoors_2
+      name: RoomsDoors (1)_2
       rect:
         serializedVersion: 2
         x: 69
@@ -191,19 +191,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c96009fdd999d5b0800000000000000
-      internalID: -5343070304254006840
+      spriteID: 8e5bef4c3a327df40800000000000000
+      internalID: 5753106235280766440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoomsDoors_3
+      name: RoomsDoors (1)_3
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 64
-        width: 22
+        width: 20
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -213,19 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bcd7e9497036974b9844a5abc5097bd
-      internalID: 1383226263
+      spriteID: e1b54c196f754e34d9076e252e87f667
+      internalID: 2142138411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoomsDoors_4
+      name: RoomsDoors (1)_4
       rect:
         serializedVersion: 2
         x: 32
         y: 32
-        width: 31
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -235,14 +235,58 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57e727999ebbec045b83bb1572af393a
-      internalID: 58380558
+      spriteID: 20044d634a3337b47b7ffe755790856f
+      internalID: -730575320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoomsDoors_5
+      name: RoomsDoors (1)_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4b4df80783b7438182afcc2798f88
+      internalID: -1333921071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomsDoors (1)_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43c20ac87d48f449d2a167eb34285f
+      internalID: -508907739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoomsDoors (1)_7
       rect:
         serializedVersion: 2
         x: 6
@@ -257,30 +301,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c89c9e993e5d0d4cb58a42e8cfcef18
-      internalID: 1159319589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RoomsDoors_6
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 0
-        width: 22
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85717db8e78bf804c9798212d6288098
-      internalID: -41743673
+      spriteID: f8557549ae159d34290bdb7c6d514975
+      internalID: -1334628083
       vertices: []
       indices: 
       edges: []
@@ -289,7 +311,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 523e9c29321830745bfffae5a2ef1cb0
+    spriteID: 9e28a43cf8a42774a9b1fe5b568f50eb
     internalID: 0
     vertices: []
     indices: 
@@ -299,13 +321,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RoomsDoors_0: -6449073906205589803
-      RoomsDoors_1: -6044181604355900492
-      RoomsDoors_2: -5343070304254006840
-      RoomsDoors_3: 1383226263
-      RoomsDoors_4: 58380558
-      RoomsDoors_5: 1159319589
-      RoomsDoors_6: -41743673
+      RoomsDoors (1)_0: -8055185665138226113
+      RoomsDoors (1)_1: -1290872231730455620
+      RoomsDoors (1)_2: 5753106235280766440
+      RoomsDoors (1)_3: 2142138411
+      RoomsDoors (1)_4: -730575320
+      RoomsDoors (1)_5: -1333921071
+      RoomsDoors (1)_6: -508907739
+      RoomsDoors (1)_7: -1334628083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
