@@ -466,7 +466,7 @@ GameObject:
   - component: {fileID: 5388153334005417143}
   - component: {fileID: 4954786274678764341}
   m_Layer: 0
-  m_Name: RoomsDoors_6 (1) 1 (1)
+  m_Name: RoomsCorridor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
