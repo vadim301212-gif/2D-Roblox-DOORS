@@ -1,10 +1,14 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class RoomsVariant : MonoBehaviour
+public class PerehodnaBoosa : MonoBehaviour
 {
-    public GameObject[] LeftRoom;
-    public GameObject[] RightRoom;
-    public GameObject UpRoom;
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        SceneManager.LoadScene("BossFight");
+    
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
