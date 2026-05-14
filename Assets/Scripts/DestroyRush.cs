@@ -1,18 +1,13 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class PerehodnaBoosa : MonoBehaviour
+public class DestroyRush : MonoBehaviour
 {
-
-    void OnTriggerEnter2D(Collider2D collision)
-    {
-        SceneManager.LoadScene("BossFight");
-    
-    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        float animLength= GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).length;
+
+        Destroy(gameObject,animLength);
     }
 
     // Update is called once per frame

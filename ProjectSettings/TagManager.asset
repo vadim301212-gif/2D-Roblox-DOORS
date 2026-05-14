@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DoorsPoint
   - Rooms
+  - Rush
   layers:
   - Default
   - TransparentFX
